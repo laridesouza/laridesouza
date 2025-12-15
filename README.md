@@ -1,4 +1,4 @@
-## Hi, I'm Larissa 😁
+## Hi, I'm Larissa 🙂
 
 This space chronicles my development in the world of technology.
 
