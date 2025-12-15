@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Hi, I'm Larissa :) 
+
+This space chronicles my development in the world of technology. My focus is to continuously deepen my knowledge of the data universe, developing the ability to generate real-world impact.
+
+
 <h1 align="center"> Get to know my tools:</h1>
 <div align="center">
 
