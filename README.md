@@ -6,6 +6,8 @@ Graduada em Informática em Saúde pela Unifesp, onde desenvolvi um interesse ge
 
 Além disso, tenho grande interesse no desenvolvimento, implementação e manutenção de infraestruturas voltadas à coleta, armazenamento e processamento de grandes volumes de dados.
 
+Estou sempre aberta a novos desafios e projetos que unam tecnologia, dados e impacto real.
+
 
 <h1 align="center"> Get to know my tools:</h1>
 <div align="center">
