@@ -1,8 +1,10 @@
-## Hi, I'm Larissa 🙂
+## Olá, sou a Larissa 🙂
 
-This space chronicles my development in the world of technology.
+Analista de Dados em constante evolução.
 
-My focus is to continuously deepen my knowledge of the data universe, developing the ability to generate real-world impact.
+Graduada em Informática em Saúde pela Unifesp, onde desenvolvi um interesse genuíno pela área de tecnologia. Atualmente, concentro meus esforços em extrair insights de dados para apoiar a tomada de decisões estratégicas. 
+
+Além disso, tenho grande interesse no desenvolvimento, implementação e manutenção de infraestruturas voltadas à coleta, armazenamento e processamento de grandes volumes de dados.
 
 
 <h1 align="center"> Get to know my tools:</h1>
