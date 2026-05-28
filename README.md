@@ -8,7 +8,6 @@ Além disso, tenho grande interesse no desenvolvimento, implementação e manute
 
 Estou sempre aberta a novos desafios e projetos que unam tecnologia, dados e impacto real.
 
-
 <h1 align="center"> Get to know my tools:</h1>
 <div align="center">
 
