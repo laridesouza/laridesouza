@@ -1,12 +1,11 @@
-## Olá, sou a Larissa 🙂
+<p align="center">
+  Hi 👋, I'm Larissa!
+</p>
 
-Analista de Dados em constante evolução.
+<p align="center">
+  Transformo dados brutos em informação organizada e caminhos claros para resolver problemas reais.
+</p>
 
-Graduada em Informática em Saúde pela Unifesp, onde desenvolvi um interesse genuíno pela área de tecnologia. Atualmente, concentro meus esforços em extrair insights de dados para apoiar a tomada de decisões estratégicas. 
-
-Além disso, tenho grande interesse no desenvolvimento, implementação e manutenção de infraestruturas voltadas à coleta, armazenamento e processamento de grandes volumes de dados.
-
-Estou sempre aberta a novos desafios e projetos que unam tecnologia, dados e impacto real.
 
 <h1 align="center"> Get to know my tools:</h1>
 <div align="center">
