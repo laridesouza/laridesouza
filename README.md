@@ -3,6 +3,9 @@
 <p align="center">
   <i>Transformo dados brutos em informação organizada e caminhos claros para resolver problemas reais.</i>
 </p>
+---
+
+Formada em Informática em Saúde pela Unifesp, com atuação prática em projetos de Análise e Engenharia de Dados. Conecto conhecimento técnico com a curiosidade e criatividade natural para decompor problemas complexos em etapas claras, estruturadas e focadas em soluções eficientes e com propósito.
 
 
 <h1 align="center"> Get to know my tools:</h1>
