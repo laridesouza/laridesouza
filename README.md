@@ -1,4 +1,4 @@
-##                                                                                                                     Olá, sou a Larissa 🙂
+## Olá, sou a Larissa 🙂
 
 Analista de Dados em constante evolução.
 
