@@ -1,9 +1,7 @@
-<p align="center">
-  Hi 👋, I'm Larissa!
-</p>
+<h1 align="center">Hi 👋, I'm Larissa!</h1>
 
 <p align="center">
-  Transformo dados brutos em informação organizada e caminhos claros para resolver problemas reais.
+  <i>Transformo dados brutos em informação organizada e caminhos claros para resolver problemas reais.</i>
 </p>
 
 
