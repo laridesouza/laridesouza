@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Larissa!</h1>
 
-Formada em Informática em Saúde pela Unifesp, com atuação prática em projetos de Análise e Engenharia de Dados.
-
-Conecto conhecimento técnico com a curiosidade e criatividade natural para decompor problemas complexos em etapas claras, estruturadas e focadas em soluções eficientes e com propósito.
+Atuo transformando dados brutos em informações relevantes.
 
 
 <h1 align="center"> Get to know my tools:</h1>
