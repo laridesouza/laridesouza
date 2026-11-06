@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Larissa!</h2>
 
-Atuo transformando dados brutos em informações relevantes.
+Atuo transformando dados brutos em informações relevantes!
 
 
 <h2 align="center"> Get to know my tools:</h2>
