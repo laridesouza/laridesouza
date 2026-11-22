@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Larissa!</h2>
 
-Atuo transformando dados brutos em informações relevantes!
-
+Registro aqui minha evolução na Engenharia de Dados, buscando transformar teoria em prática e aprimorar continuamente meus conhecimentos. Meu objetivo é transformar dados brutos em informações relevantes, atuando na extração de diferentes fontes (APIs, bancos de dados e arquivos), transformação e carga de dados (ETL/ELT). Meu foco está em construir uma base sólida nos fundamentos da Engenharia de Dados para, a partir deles, explorar e aplicar diferentes ferramentas e tecnologias.
 
 <h2 align="center"> Get to know my tools:</h2>
 <div align="center">
